@@ -6,4 +6,4 @@ I will probably use Script Editor but I dunno.
 - Startup evernote and viscosity
 - Search web via dialog box
 - Mount network drive
-- Open Viscosity and connect
+- Open Viscosity and connect to client1
