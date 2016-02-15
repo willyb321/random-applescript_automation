@@ -5,3 +5,4 @@ I will probably use Script Editor but I dunno.
 # Current Projects
 - Startup evernote and viscosity
 - Search web via dialog box
+- Mount network drive
