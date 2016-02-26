@@ -9,3 +9,4 @@ I will probably use Script Editor but I dunno.
 - Search web via dialog box
 - Mount network drive
 - Open Viscosity and connect to client1
+- Disconnect client1 and quit viscosity
